@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+	pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -9,14 +9,14 @@
 </head>
 <body>
 
-<header> 헤더입니다
-</header>
+	<header>
+		헤더입니다
+		<div>회원가입</div>
+	</header>
 
-<article> 본문입니다
-</article>
+	<article>본문입니다</article>
 
-<footer> 푸터입니다
-</footer>
+	<footer> 푸터입니다 </footer>
 
 </body>
 </html>
